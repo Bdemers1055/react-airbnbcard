@@ -10,6 +10,10 @@ class App extends Component {
     return (
       <div className="App">
       <SocialCard imageSrc="https://via.placeholder.com/250x250" />
+      <SocialCard imageSrc="https://via.placeholder.com/250x250" />
+      <SocialCard imageSrc="https://via.placeholder.com/250x250" />
+      <SocialCard imageSrc="https://via.placeholder.com/250x250" />
+      <SocialCard imageSrc="https://via.placeholder.com/250x250" />
       </div>
     );
   }
